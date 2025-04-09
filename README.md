@@ -1,3 +1,5 @@
+![Logo do projeto](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/hero.jpg)
+
 ## Model Portfolio
 Este projeto é resultado de um intenso aulão de VueJS, focado na construção de um modelo de portfolio. Durante o desenvolvimento, explorei profundamente os conceitos de componentização no VueJS, aplicando reatividade com ref de maneira extensiva. Esta experiência não apenas consolidou meus conhecimentos prévios, mas também me permitiu colocar em prática os fundamentos essenciais do VueJS, criando uma aplicação funcional.
 
@@ -28,6 +30,13 @@ Nenhum serviço externo foi usado/consumido.
 ## Como usar?
 
 Como não há nenhum tipo de integração é só algo visual então não precisa se preocupar muito com estes detalhes.
+
+## Imagens do Projeto
+![Seção do Heroi](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/hero.jpg)
+![Seção dos Serviços](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/services.jpg)
+![Seção das Habilidades](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/skills.jpg)
+![Seção dos Projetos](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/projects.jpg)
+![Seção dos Contato](https://github.com/LevyAlves1532/model-portfolio/blob/master/readme/contact.jpg)
 
 ## Links
 
